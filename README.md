@@ -9,7 +9,7 @@ This repository does not contain any application logic. It is used solely to tri
 ## Events Triggered
 
 - Push
-- Pull Request (open)
+- Pull Request
 - Merge
 
 ## Usage
