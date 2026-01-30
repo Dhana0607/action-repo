@@ -8,9 +8,9 @@ This repository does not contain any application logic. It is used solely to tri
 
 ## Events Triggered
 
-- Push
-- Pull Request
-- Merge
+- Push.
+- Pull Request.
+- Merge.
 
 ## Usage
 
