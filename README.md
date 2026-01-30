@@ -12,8 +12,8 @@ This repository does not contain any application logic. It is used solely to tri
 - Merge
 
 ## Usage
-- Make commits to trigger **Push** events
-- Create pull requests to trigger **Pull Request** events
-- Merge pull requests
+- Make commits to trigger **Push** events.
+- Create pull requests to trigger **Pull Request** events.
+- Merge pull requests.
 
 All webhook payloads from this repository are sent to the webhook endpoint configured in the GitHub Webhooks settings.
